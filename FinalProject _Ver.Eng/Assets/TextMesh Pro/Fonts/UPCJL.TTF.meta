@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 77536b6a3e2045f41970b52794336b08
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - JasmineUPC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8281ae2012d6ac946ad8e431ae2c731d, type: 3}
+  - {fileID: 12800000, guid: 56cfe41d115888b4b8685195be646766, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
